@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm ✨ mel ✨
+🌱 I'm a software engineering student looking to learn more about coding and develop my skills
+😄 Pronouns: she/her
+
+
+
 <!--
 **deviveirosmel/deviveirosmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
