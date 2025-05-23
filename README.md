@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-I'm ✨ mel ✨
-🌱 I'm a software engineering student looking to learn more about coding and develop my skills
-😄 Pronouns: she/her
+<br>I'm ✨ mel ✨
+<br>😄 Pronouns: she/her
+<br>🌱 I'm a software engineering student looking to learn more about coding and develop my skills
+
 
 
 
